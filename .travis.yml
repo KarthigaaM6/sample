@@ -1,9 +1,9 @@
 language:node_js
 addons:
   sonarcloud:
-    organization: "sample-app" # the key of the org you chose at step #3
+    organization: "reactapp" # the key of the org you chose at step #3
     token:
-      secure: bfaf383b6ab9de68364b2a4325def01c3fe7335e # encrypted value of your token
+      secure: 8602677974ac62801957acf392ff7639b04b7462 # encrypted value of your token
 script:
   # other script steps might be done before running the actual analysis
   - sonar-scanner
