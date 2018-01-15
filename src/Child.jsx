@@ -12,6 +12,7 @@ class Child extends React.Component {
         4
         5
         8
+        11
         <br/>
         {this.props.data}
       </div>
