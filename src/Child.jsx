@@ -11,6 +11,7 @@ class Child extends React.Component {
         stash2
         4
         5
+        8
         <br/>
         {this.props.data}
       </div>
