@@ -6,7 +6,7 @@ class Child extends React.Component {
     return (
       <div>
         <br/>
-        --- what you have entered ---
+        --- S what you have entered ---
         <br/>
         {this.props.data}
       </div>
