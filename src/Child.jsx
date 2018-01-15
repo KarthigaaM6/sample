@@ -7,6 +7,7 @@ class Child extends React.Component {
       <div>
         <br/>
         --- S what you have entered ---
+        stash1
         <br/>
         {this.props.data}
       </div>
