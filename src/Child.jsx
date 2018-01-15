@@ -15,6 +15,8 @@ class Child extends React.Component {
         11
         12
         20
+        15
+new commit on 21
         <br/>
         {this.props.data}
       </div>
